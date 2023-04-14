@@ -1,7 +1,5 @@
 package Arina;
 
-import Assignment.Product;
-
 public class Products {
     private int productCode;
     private String productName;
